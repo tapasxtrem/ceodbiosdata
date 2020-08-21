@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "tapas"
+    },
+    {
+      "id": 2,
+      "title": "Nayak"
+    }
+  ],
+  "profile": {
+    "name": "Tapas Nayak"
+  }
+}
